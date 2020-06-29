@@ -1,0 +1,82 @@
+.navbar{
+	background-color: maroon!important;
+}
+.navbar .navbar-brand {
+	color: #fff;
+}
+.navbar .navbar-brand:hover{
+	color: #fff;
+}
+.navbar .navbar-nav li a{
+	color: #fff !important;
+}
+
+h1{
+font-family: 'Inter', sans-serif;
+	text-transform:uppercase;
+
+	}
+
+h2{
+font-family: Playfair Display, serif;
+font-style:italic;
+
+	}
+
+h3{
+	font-family: 'Inter', sans-serif;
+	font-size: 20px;
+	font-style: bold;
+  color: maroon;
+  text-transform: uppercase;
+}
+
+h4{
+  font-family: Book Antiqua, serif;
+  font-size: 90%;
+  text-align:justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h5{
+	font-family: 'Inter', sans-serif;
+	font-size: 14px;
+	font-style: bold;
+  color: maroon;
+  text-transform: uppercase;
+}
+
+
+p{
+	text-align:justify;
+}
+
+
+blockquote{
+	text-align:justify;
+  padding-left: 10%;
+  padding-right: 10%;;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  color: maroon; /* old IE */
+  background-color: maroon; /* Modern Browsers */
+}
+
+.box {
+  border-color: #333;
+  border-width: 1px;
+  border-style:solid;
+border-radius: 5px;
+ box-sizing: border-box;
+  color: #000;
+  margin: 10px 0 20px;
+  padding: 15px 15px 0px 15px;
+  position: relative;
+  font-size: 16px;
+  background: floralwhite;
+
+}
